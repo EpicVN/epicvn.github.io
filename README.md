@@ -1,1 +1,68 @@
-# epicvn.github.io
+
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.7.1 -->
+<title>Phi Quang Đạt | Chào mừng mọi người</title>
+<meta name="generator" content="Jekyll v3.9.0" />
+<meta property="og:title" content="Phi Quang Đạt" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Chào mừng mọi người" />
+<meta property="og:description" content="Chào mừng mọi người" />
+<link rel="canonical" href="https://phiquangdat.github.io/" />
+<meta property="og:url" content="https://phiquangdat.github.io/" />
+<meta property="og:site_name" content="Phi Quang Đạt" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Phi Quang Đạt" />
+<script type="application/ld+json">
+{"description":"Chào mừng mọi người","url":"https://phiquangdat.github.io/","@type":"WebSite","headline":"Phi Quang Đạt","name":"Phi Quang Đạt","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/assets/css/style.css?v=e670def39c3bd5e167395e40c42b76e275da19ab">
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+      <h1><a href="https://phiquangdat.github.io/">Phi Quang Đạt</a></h1>
+      
+
+      <p>Phi Quang Đạt</p>
+
+<p>Chào mừng các bạn đến với phần giới thiệu của mình</p>
+
+<h1 id="thông-tin">Thông tin</h1>
+<p>Họ và tên: Phi Quang Đạt<br />
+  Nơi sinh sống: Thành phố Hồ Chí Minh<br />
+    Email: 21520711@gm.uit.edu.vn<br />
+  SĐT: +84(0)911063797</p>
+<h2 id="học-vấn">Học vấn</h2>
+<p>Đang học tại Trường Đại học Công nghệ Thông tin ĐHQG TP.HCM</p>
+
+<h3 id="nghề-nghiệp">Nghề nghiệp</h3>
+<p>Loading.</p>
+
+<h4 id="sở-thích">Sở thích</h4>
+<p><img src="https://user-images.githubusercontent.com/88042242/142202640-12ff5864-8e5c-4dfe-857d-bfb74f4c4941.png" alt="photo1602127619982-16021276201931567617424" /></p>
+
+
+      
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+  </body>
+</html>
