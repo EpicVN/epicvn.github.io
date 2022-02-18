@@ -11,7 +11,7 @@
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="Lê Đăng Khoa" />
 <script type="application/ld+json">
-{"description":"Chào mừng mọi người","url":"https://epicvn.github.io/","@type":"WebSite","headline":"Phi Quang Đạt","name":"Phi Quang Đạt","@context":"https://schema.org"}</script>
+{"description":"Chào mừng mọi người","url":"https://epicvn.github.io/","@type":"WebSite","headline":"Lê Đăng Khoa","name":"Lê Đăng Khoa","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
     <link rel="stylesheet" href="/assets/css/style.css?v=e670def39c3bd5e167395e40c42b76e275da19ab">
