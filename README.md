@@ -5,13 +5,13 @@
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="Chào mừng mọi người" />
 <meta property="og:description" content="Chào mừng mọi người" />
-<link rel="canonical" href="https://khoale.github.io/" />
-<meta property="og:url" content="https://khoale.github.io/" />
+<link rel="canonical" href="https://epicvn.github.io/" />
+<meta property="og:url" content="https://epicvn.github.io/" />
 <meta property="og:site_name" content="Lê Đăng Khoa" />
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="Lê Đăng Khoa" />
 <script type="application/ld+json">
-{"description":"Chào mừng mọi người","url":"https://khoale.github.io/","@type":"WebSite","headline":"Lê Đăng Khoa","name":"Lê Đăng Khoa","@context":"https://schema.org"}</script>
+{"description":"Chào mừng mọi người","url":"https://epicvn.github.io/","@type":"WebSite","headline":"Lê Đăng Khoa","name":"Lê Đăng Khoa","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
     <link rel="stylesheet" href="/assets/css/style.css?v=e670def39c3bd5e167395e40c42b76e275da19ab">
@@ -30,7 +30,7 @@
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
       
-      <h1><a href="https://khoale.github.io/">Lê Đăng Khoa</a></h1>
+      <h1><a href="https://epicvn.github.io/">Lê Đăng Khoa</a></h1>
       
 
       <p>Lê Đăng Khoa</p>
