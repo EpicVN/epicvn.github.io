@@ -14,11 +14,7 @@
 {"description":"Chào mừng mọi người","url":"https://epicvn.github.io/","@type":"WebSite","headline":"Lê Đăng Khoa","name":"Lê Đăng Khoa","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
-    <link rel="stylesheet" href="/assets/css/style.css?v=e670def39c3bd5e167395e40c42b76e275da19ab">
-    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
-
 <!-- Setup Google Analytics -->
-
 
 
 <!-- You can set your favicon here -->
@@ -26,7 +22,6 @@
 
 <!-- end custom head snippets -->
 
-  </head>
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
       
@@ -57,4 +52,4 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
     <script>anchors.add();</script>
   </body>
-</html>
+
