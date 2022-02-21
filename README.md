@@ -44,7 +44,7 @@
 <p>Chưa có</p>
 
 <h4 id="sở-thích">Sở thích</h4>
-<p><img src="https://github.com/EpicVN/epicvn.github.io/blob/7890e25085dd134d1fc4ed52516cd3f2a060a732/docs/assets/coder-dev-1.jpeg" /></p>
+<p><img src="https://github.com/EpicVN/epicvn.github.io/blob/7890e25085dd134d1fc4ed52516cd3f2a060a732/docs/assets/coder-dev-1.jpeg?raw=true" /></p>
 
 
       
